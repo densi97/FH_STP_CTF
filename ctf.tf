@@ -59,7 +59,7 @@ sudo apt-get install -y docker-compose-plugin vim git
 
 git clone https://github.com/CTFd/CTFd
 git clone https://github.com/apt-42/apt42_ctfd_themes.git
-cp -r /home/ubuntu/apt42_ctfd_themes/watchdogs/ /home/ubuntu/CTFd/
+cp -r /home/ubuntu/apt42_ctfd_themes/watchdogs/ /home/ubuntu/CTFd/CTFd/themes/
 
 cd /home/ubuntu/CTFd
 
